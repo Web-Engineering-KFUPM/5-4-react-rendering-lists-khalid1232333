@@ -46,7 +46,7 @@ import "./index.css";
    5️⃣ Use `course.id` as the key prop.
 
    🧭 LINE REFERENCE:
-   → Go to the <section className="grid"> block near the bottom of this file.
+   → Go to the <secction className="grid"> block near the bottom of this file.
      Replace the existing JSX comment with the .map() implementation if missing.
 
    ✅ This task is already implemented for you,
